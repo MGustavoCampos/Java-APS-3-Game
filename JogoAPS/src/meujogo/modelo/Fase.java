@@ -99,7 +99,7 @@ public class Fase extends JPanel implements ActionListener {
 			}
 
 		}else {
-			ImageIcon fimJogo = new ImageIcon("res\\FIM DE JOGO.jpg");
+			ImageIcon fimJogo = new ImageIcon("res\\gameover.jpg");
 			graficos.drawImage(fimJogo.getImage(), 0, 0, null);
 		}
 
